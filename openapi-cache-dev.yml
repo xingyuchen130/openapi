@@ -1,5 +1,0 @@
-spring:
-  redis:
-    port: 8400
-    host: redis.qfjava.cn
-    password: redis001
